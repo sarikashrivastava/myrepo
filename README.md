@@ -1,2 +1,2 @@
 # myrepo
-author-sarika
+author-sarika shrivastava
